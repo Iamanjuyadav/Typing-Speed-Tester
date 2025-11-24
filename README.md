@@ -60,7 +60,12 @@ JavaScript (Vanilla JS)
 ##
 📸 Screenshots
 
-(Add screenshots here if you have any)
+## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
+### Building a Typing Speed Tester from Scratch | HTML, CSS, JavaScript 
+
+
+![preview img](/preview.png)
+
 
 ##
 📥 Installation
@@ -79,3 +84,13 @@ Simply open the project in a browser.
 Start typing the displayed text.
 
 Review your performance after the test ends.
+
+
+##
+🙌 Acknowledgements
+
+Inspiration from common typing test applications
+
+Created for learning, practicing, and fun
+
+Developed by Miss Anju
