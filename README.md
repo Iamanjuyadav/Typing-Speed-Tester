@@ -1,2 +1,81 @@
-# Typing-Speed-Tester
-“Typing Speed Tester is a simple and interactive tool that helps you measure how fast and accurately you type. Practice with real-time feedback, improve your typing speed, and track your progress with each test.”
+# Typing Speed Tester
+
+A simple and interactive web-based Typing Speed Tester that helps users measure their typing speed, accuracy, and overall performance. Designed for practice, improvement, and fun!
+
+##
+🚀 Features
+
+Real-time WPM (Words Per Minute) calculation
+
+-> Accuracy tracking
+
+-> Live error detection
+
+-> Timer-based tests
+
+-> Clean and responsive UI
+
+-> Restart and reset options
+
+##
+📂 Project Structure
+/Typing-Speed-Tester
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+##
+⚙️ How It Works
+
+A random paragraph appears on the screen.
+
+Start typing in the input box.
+
+The timer begins automatically when you start typing.
+
+The app calculates:
+
+1.) WPM
+
+2.) Characters typed
+
+3.) Errors
+
+4.) Accuracy
+
+5.) After the timer ends, results are displayed.
+
+
+##
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+
+##
+📸 Screenshots
+
+(Add screenshots here if you have any)
+
+##
+📥 Installation
+
+Download or clone the repository:
+
+git clone https://github.com/your-username/Typing-Speed-Tester.git
+
+Open index.html in your browser.
+
+##
+▶️ Usage
+
+Simply open the project in a browser.
+
+Start typing the displayed text.
+
+Review your performance after the test ends.
