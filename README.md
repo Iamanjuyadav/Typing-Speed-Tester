@@ -1,6 +1,8 @@
 # Typing Speed Tester
 
-A simple and interactive web-based Typing Speed Tester that helps users measure their typing speed, accuracy, and overall performance. Designed for practice, improvement, and fun!
+A simple and interactive web-based Typing Speed Tester that helps users measure their typing speed, accuracy, and overall performance. 
+Designed for practice, improvement, and fun!
+
 
 ## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
 ### Building a Typing Speed Tester from Scratch | HTML, CSS, JavaScript 
