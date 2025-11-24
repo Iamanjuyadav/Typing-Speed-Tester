@@ -4,7 +4,7 @@ A simple and interactive web-based Typing Speed Tester that helps users measure 
 Designed for practice, improvement, and fun!
 
 
-## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
+## [Watch Live](https://iamanjuyadav.github.io/Typing-Speed-Tester/)
 ### Building a Typing Speed Tester from Scratch | HTML, CSS, JavaScript 
 
 
