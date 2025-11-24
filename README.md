@@ -2,6 +2,13 @@
 
 A simple and interactive web-based Typing Speed Tester that helps users measure their typing speed, accuracy, and overall performance. Designed for practice, improvement, and fun!
 
+## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
+### Building a Typing Speed Tester from Scratch | HTML, CSS, JavaScript 
+
+
+![preview img](/preview.png)
+
+
 ##
 🚀 Features
 
@@ -58,16 +65,6 @@ JavaScript (Vanilla JS)
 
 
 ##
-📸 Screenshots
-
-## [Watch Live](https://iamanjuyadav.github.io/Todo_List_App/)
-### Building a Typing Speed Tester from Scratch | HTML, CSS, JavaScript 
-
-
-![preview img](/preview.png)
-
-
-##
 📥 Installation
 
 Download or clone the repository:
@@ -93,4 +90,4 @@ Inspiration from common typing test applications
 
 Created for learning, practicing, and fun
 
-Developed by Miss Anju
+Developed by Miss Anju yadav
